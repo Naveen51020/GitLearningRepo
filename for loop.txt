@@ -3,3 +3,5 @@ for (i = 0; i < n; i++)
 	// some task
 	cout << i + 1 << endl;
 }
+
+print ("done with for loops")
